@@ -1,0 +1,15 @@
+# 2. 파이썬 관련 임시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# 3. OS 및 툴 설정 파일
+.DS_Store
+.vscode/
+.idea/
+
+# 4. 주피터 노트북 체크포인트
+.ipynb_checkpoints
